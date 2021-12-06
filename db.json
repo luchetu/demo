@@ -22,6 +22,25 @@
     }
     
 ]
+   "outlets": [
+    {
+        "id": 1,
+        "outlet_name": "Embakasi Village",
+        "ward": "Embakasi East",
+        "region": "Nairobi",
+        "address": "1905 Embakasi,
+        "status": "PENDING"
+    },
+    {
+       "id": 2,
+        "outlet_name": "Kariokoo",
+        "ward": "Kariokoo",
+        "region": "Dar es Salaam,,
+        "address": "022 illara",
+        "status": "PENDING"
+    }
+    
+]
 }
   
 

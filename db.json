@@ -21,6 +21,29 @@
         "status": "COMPLETED"
     }
     
+],
+   "outlets": [
+    {
+        "id": 1,
+        "agent_name": "Shinyalu Estate ltd",
+        "country": "Tanzania",
+        "till": "132908",
+        "agent_business": "Interior Design & Carpentry",
+        "registration_number": "132908",
+        "address": "453 street Shinyalu",
+        "status": "PENDING"
+    },
+    {
+        "id": 2,
+        "agent_name": "Ayub Yamo ltd",
+        "country": "Kenya",
+        "till": "null",
+        "agent_business": "Restaurant and Club",
+        "registration_number": "132210",
+        "address": "700 street Nairobi",
+        "status": "COMPLETED"
+    }
+    
 ]
    
 }

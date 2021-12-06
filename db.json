@@ -8,6 +8,9 @@
         "agent_business": "Interior Design & Carpentry",
         "registration_number": "132908",
         "address": "453 street Shinyalu",
+        "latitude": "0.0236° S",
+        "longitude": "37.9062° E",
+        "stage": "MAKER-PENDING",
         "status": "PENDING"
     },
     {
@@ -18,26 +21,34 @@
         "agent_business": "Restaurant and Club",
         "registration_number": "132210",
         "address": "700 street Nairobi",
-        "status": "COMPLETED"
+        "status": "COMPLETED",
+       "latitude": "0.0236° S",
+        "longitude": "37.9062° E",
+       "stage": "MAKER-PENDING"
     }
     
 ],
    "outlets": [
     {
         "id": 1,
+       "agent_name":"Embakasi Branch",
         "outlet_name": "Embakasi Village",
         "ward": "Embakasi East",
         "region": "Nairobi",
         "address": "1905 Embakasi",
-        "status": "PENDING"
+        "status": "PENDING",
+       "stage": "MAKER-PENDING",
     },
     {
        "id": 2,
         "outlet_name": "Kariokoo",
+       "agent_name":"Kariokoo",
+       "Branch":"Mlimani City",
         "ward": "Kariokoo",
         "region": "Dar es Salaam",
         "address": "022 illara",
-        "status": "PENDING"
+        "status": "PENDING",
+          "stage": "MAKER-PENDING",
     }
     
 ]

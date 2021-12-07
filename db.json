@@ -54,24 +54,21 @@
      "transactions": [
         {
             "id": 1,
-            "agent_name": "Embakasi South",
-            "outlet_name": "Embakasi Village",
-            "ward": "Embakasi East",
-            "region": "Nairobi",
+            "customer_name": "Humphrey Luchetu",
+            "account_name": "1103204082",
+            "country": "Kenya",
             "address": "1905 Embakasi",
             "status": "PENDING",
-            "stage": "MAKER-PENDING",
             "branch": "PSPF Tower"
         },
         {
             "id": 2,
-            "outlet_name": "Kariokoo",
-            "agent_name": "Kariokoo",
-            "ward": "Kariokoo",
+            "customer_name": "Gerald Ondullah",
+            "account_name": "50968795744",
+            "country": "Kenya",
             "region": "Dar es Salaam",
-            "address": "022 illara",
+              "address": "19 Shinyalu",
             "status": "PENDING",
-            "stage": "MAKER-PENDING",
             "branch": "Mlimani City"
         }
     ]

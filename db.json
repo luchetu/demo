@@ -38,13 +38,11 @@
         "address": "1905 Embakasi",
         "status": "PENDING",
        "stage": "MAKER-PENDING",
-        "branch":"PSPF Tower"
     },
     {
        "id": 2,
         "outlet_name": "Kariokoo",
        "agent_name":"Kariokoo",
-       "branch":"Mlimani City",
         "ward": "Kariokoo",
         "region": "Dar es Salaam",
         "address": "022 illara",

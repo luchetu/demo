@@ -1,57 +1,54 @@
 {
-  "agents": [
-    {
-        "id": 1,
-        "agent_name": "Shinyalu Estate ltd",
-        "country": "Tanzania",
-        "till": "132908",
-        "agent_business": "Interior Design & Carpentry",
-        "registration_number": "132908",
-        "address": "453 street Shinyalu",
-        "latitude": "0.0236° S",
-        "longitude": "37.9062° E",
-        "stage": "MAKER-PENDING",
-        "status": "PENDING"
-    },
-    {
-        "id": 2,
-        "agent_name": "Ayub Yamo ltd",
-        "country": "Kenya",
-        "till": "null",
-        "agent_business": "Restaurant and Club",
-        "registration_number": "132210",
-        "address": "700 street Nairobi",
-        "status": "COMPLETED",
-       "latitude": "0.0236° S",
-        "longitude": "37.9062° E",
-       "stage": "MAKER-PENDING"
-    }
-    
-],
-   "outlets": [
-    {
-        "id": 1,
-       "agent_name":"Embakasi South",
-        "outlet_name": "Embakasi Village",
-        "ward": "Embakasi East",
-        "region": "Nairobi",
-        "address": "1905 Embakasi",
-        "status": "PENDING",
-       "stage": "MAKER-PENDING",
-    },
-    {
-       "id": 2,
-        "outlet_name": "Kariokoo",
-       "agent_name":"Kariokoo",
-        "ward": "Kariokoo",
-        "region": "Dar es Salaam",
-        "address": "022 illara",
-        "status": "PENDING",
-        "stage": "MAKER-PENDING"
-    }
-    
-]
-   
+    "agents": [
+        {
+            "id": 1,
+            "agent_name": "Shinyalu Estate ltd",
+            "country": "Tanzania",
+            "till": "132908",
+            "agent_business": "Interior Design & Carpentry",
+            "registration_number": "132908",
+            "address": "453 street Shinyalu",
+            "latitude": "0.0236° S",
+            "longitude": "37.9062° E",
+            "stage": "MAKER-PENDING",
+            "status": "PENDING"
+        },
+        {
+            "id": 2,
+            "agent_name": "Ayub Yamo ltd",
+            "country": "Kenya",
+            "till": "null",
+            "agent_business": "Restaurant and Club",
+            "registration_number": "132210",
+            "address": "700 street Nairobi",
+            "status": "COMPLETED",
+            "latitude": "0.0236° S",
+            "longitude": "37.9062° E",
+            "stage": "MAKER-PENDING"
+        }
+    ],
+    "outlets": [
+        {
+            "id": 1,
+            "agent_name": "Embakasi South",
+            "outlet_name": "Embakasi Village",
+            "ward": "Embakasi East",
+            "region": "Nairobi",
+            "address": "1905 Embakasi",
+            "status": "PENDING",
+            "stage": "MAKER-PENDING",
+            "branch": "PSPF Tower"
+        },
+        {
+            "id": 2,
+            "outlet_name": "Kariokoo",
+            "agent_name": "Kariokoo",
+            "ward": "Kariokoo",
+            "region": "Dar es Salaam",
+            "address": "022 illara",
+            "status": "PENDING",
+            "stage": "MAKER-PENDING",
+            "branch": "Mlimani City"
+        }
+    ]
 }
-  
-

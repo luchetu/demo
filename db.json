@@ -72,4 +72,28 @@
             "branch": "Mlimani City"
         }
     ]
+    "configs": [
+        {
+            "formId": 1,
+            "modeDate": "Humphrey Luchetu",
+            "name": "1103204082",
+            "description": "Kenya",
+            "regDate": "1905 Embakasi",
+            "configType":"Webflow"
+            "status": "PENDING",
+            "category": "PSPF Tower",
+             "region": "Tanzania",
+        },
+         {
+            "formId": 2,
+            "modeDate": "Humphrey Luchetu",
+            "name": "1103204082",
+            "description": "Kenya",
+            "regDate": "1905 Embakasi",
+            "configType":"Webflow"
+            "status": "PENDING",
+            "category": "PSPF Tower",
+             "region": "Tanzania",
+        },
+    ]
 }

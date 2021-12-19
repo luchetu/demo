@@ -71,7 +71,7 @@
             "status": "PENDING",
             "branch": "Mlimani City"
         }
-    ]
+    ],
     "configs": [
         {
             "formId": 1,
@@ -79,7 +79,7 @@
             "name": "1103204082",
             "description": "Kenya",
             "regDate": "1905 Embakasi",
-            "configType":"Webflow"
+            "configType":"Webflow",
             "status": "PENDING",
             "category": "PSPF Tower",
              "region": "Tanzania",
@@ -90,10 +90,10 @@
             "name": "1103204082",
             "description": "Kenya",
             "regDate": "1905 Embakasi",
-            "configType":"Webflow"
+            "configType":"Webflow",
             "status": "PENDING",
             "category": "PSPF Tower",
              "region": "Tanzania",
-        },
+        }
     ]
 }
